@@ -1,7 +1,6 @@
 import React from 'react';
 import * as THREE from 'three';
 import WAVES from 'vanta/dist/vanta.waves.min';
-import ReactDOM from 'react-dom';
 import SocialBar from './SocialBar';
 
 export default class Home extends React.Component {

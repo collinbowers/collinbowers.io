@@ -1,7 +1,6 @@
 import React from 'react';
 import * as THREE from 'three';
 import CELLS from 'vanta/dist/vanta.cells.min';
-import ReactDOM from 'react-dom';
 import SocialBar from './SocialBar';
 
 export default class Projects extends React.Component {
