@@ -1,5 +1,4 @@
 import React from 'react';
-import Pdf from '../documents/CollinBowers_SoftwareEngineer.pdf';
 
 export default class SocialBar extends React.Component { 
     render() {
