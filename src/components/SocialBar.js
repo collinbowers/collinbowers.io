@@ -47,7 +47,7 @@ export default class SocialBar extends React.Component {
                             </a>
                         </li>
                         <li>
-                            <a target="_blank" rel="noopener noreferrer" href= {Pdf} aria-label="Resume">
+                            <a target="_blank" rel="noopener noreferrer" href= "https://collinbowers.github.io/resume/" aria-label="Resume">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="29px" height="29px">
                                 <title>Resume</title>
                                 <g>
